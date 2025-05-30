@@ -29,6 +29,7 @@ This project implements a seamless integration with Safaricom's M-Pesa payment s
    - Success messages for completed transactions
    - Error messages for failed attempts
    - Clear visual indicators for all states
+   - clear precise error message for all errors
 
 ## Backend Features
 
@@ -106,4 +107,4 @@ This project implements a seamless integration with Safaricom's M-Pesa payment s
 - Clear visual feedback
 - Responsive design principles
 
-This documentation provides an overview of the project's features and functionality. For technical implementation details, please refer to the codebase and configuration files. 
+This documentation provides an overview of the project's features and functionality. For technical implementation details, please refer to the codebase and configuration files, or contact  @cecilgachie
